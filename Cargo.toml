@@ -1,0 +1,13 @@
+[package]
+name = "sndio"
+version = "0.1.0"
+edition = "2021"
+license = "ISC"
+description = "Minimal sndio bindings for Rust"
+
+[dependencies]
+libc = "0.2"
+
+[dev-dependencies]
+hound = "3"
+minimp3 = "0.5"
