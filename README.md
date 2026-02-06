@@ -1,5 +1,9 @@
 # sndio
 
+[![Build Status](https://github.com/jarmani/sndio-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/jarmani/sndio-rs/actions)
+[![Crates.io](https://img.shields.io/crates/v/sndio.svg)](https://crates.io/crates/sndio)
+[![Documentation](https://docs.rs/sndio/badge.svg)](https://docs.rs/sndio)
+
 Minimal, safe Rust bindings for OpenBSD sndio.
 
 ## Features
