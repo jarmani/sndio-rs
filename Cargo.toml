@@ -1,9 +1,16 @@
 [package]
 name = "sndio"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "ISC"
 description = "Minimal sndio bindings for Rust"
+
+homepage = "https://github.com/jarmani/sndio-rs"
+repository = "https://github.com/jarmani/sndio-rs.git"
+documentation = "https://docs.rs/sndio"
+
+keywords = ["openbsd", "sndio", "audio"]
+categories = ["api-bindings", "os::unix-apis"]
 
 [dependencies]
 libc = "0.2"
